@@ -1,25 +1,14 @@
 # Learning Path
 
-## Javascript and TypeScript
-[Javascript](https://github.com/sandeepdewangan/js) ✅
-
-[TypeScript](https://github.com/sandeepdewangan/path/blob/main/ts.md) ✅
-
-## CSS
-[Basics](https://github.com/sandeepdewangan/css/blob/main/1-basics.md) ✅
-
-## Git
-[Git](https://github.com/sandeepdewangan/git)
-
-## Tailwind
+| Language/Framework  | Resources |
+| ------------- | ------------- |
+| Javascript and TypeScript  | 1️⃣ [Javascript](https://github.com/sandeepdewangan/js) 2️⃣ [TypeScript](https://github.com/sandeepdewangan/path/blob/main/ts.md)|
+| CSS  | 1️⃣ [Basics](https://github.com/sandeepdewangan/css/blob/main/1-basics.md)  |
+| Git  | 1️⃣ [Git](https://github.com/sandeepdewangan/git)  |
+| Tailwind  | ⏳ |
+| React.js  | 1️⃣ [React](https://github.com/sandeepdewangan/react)  |
+| Next.js  | 1️⃣ [1-Basics](https://github.com/sandeepdewangan/1-next-basics) 2️⃣ [Tech Flow](https://github.com/sandeepdewangan/techflow) ⏳|
+| React Native  |  ⏳  |
+| Machine Learning  |  ⏳  |
 
 
-## React.js
-[React](https://github.com/sandeepdewangan/react) ✅
-
-## Next.js
-[1-Basics](https://github.com/sandeepdewangan/1-next-basics) 👨‍💻
-
-[Tech Flow](https://github.com/sandeepdewangan/techflow) 🆘 ⏳
-
-## React Native
